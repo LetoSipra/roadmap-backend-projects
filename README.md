@@ -8,9 +8,9 @@ This repository contains set of backend project from [roadmap backend](https://r
 
 ### Beginner
 
-- [x] **Task Tracker CLI**
+- [x] [**Task Tracker CLI**](https://roadmap.sh/projects/task-tracker)
 
-- [x] **GitHub User Activity CLI**
+- [x] [**GitHub User Activity CLI**](https://roadmap.sh/projects/github-user-activity)
 
 - [ ] **Expense Tracker CLI**
 
