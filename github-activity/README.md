@@ -30,10 +30,11 @@ A simple command-line tool to fetch and display the recent public GitHub activit
 
 ## 📥 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/LetoSipra/roadmap-backend-projects
-   cd github-activity/typescript
-   npx tsc github-activity
-   node github-activity username
-   ```
+Clone this repository:
+
+```bash
+git clone https://github.com/LetoSipra/roadmap-backend-projects
+cd github-activity
+npx tsc github-activity
+node github-activity <username>
+```
