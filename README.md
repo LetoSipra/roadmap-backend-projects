@@ -1,105 +1,133 @@
-# Task Tracker CLI
+# Roadmap Backend Challenges Repository
 
-A simple, file-based command-line task tracker built with TypeScript. Manage your tasks directly from the terminal with support for adding, updating, deleting, and marking tasks as in-progress or done. 
-Sample solution for the [task-tracker-cli](https://roadmap.sh/projects/task-tracker).
+This repository contains a curated set of backend project from [roadmap backend](https://roadmap.sh/backend/projects) challenges—organized from **beginner** through **advanced**—each implemented in both **TypeScript** and **Go**. Purpose for sharpening my backend skills.
 
-## Table of Contents
+---
 
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Commands](#commands)
-  - [Examples](#examples)
-- [Data Storage](#data-storage)
+## 📂 Repository Structure
 
-## Features
+Each project lives in its own top-level folder. Inside every project folder you’ll find two subfolders:
 
-- **Add tasks**: Create new to-do items with timestamps.
-- **Update tasks**: Modify the description of existing tasks.
-- **Delete tasks**: Remove tasks by ID.
-- **Mark tasks**: Change status to `in-progress` or `done`.
-- **List tasks**: View all tasks or filter by status.
+- **typescript/** — Node.js/TypeScript implementation
+- **go/** — Go implementation
 
-## Prerequisites
+Each implementation has its own README (with setup and run instructions) as well as any configuration files (e.g. `tsconfig.json`, `go.mod`).
 
-- [Node.js](https://nodejs.org/) v14 or higher
-- [ts-node](https://github.com/TypeStrong/ts-node) (for running TypeScript directly)
+---
 
-## Installation
+## ✅ Project Checklist
 
-1. **Clone the repository**
+### Beginner
 
-   ```bash
-   git clone https://github.com/LetoSipra/task-tracker-typescript
-   cd task-tracker-typescript
-   ```
+- [ ] **Task Tracker**
 
-2. **Install dependencies**
+  - [x] TypeScript
+  - [ ] Go
 
-   ```bash
-   npm install
-   ```
+- [ ] **GitHub User Activity CLI**
 
-3. **Ensure **``** is in place**
+  - [ ] TypeScript
+  - [ ] Go
 
-   The CLI will automatically create a `tasks.json` file in the current working directory if it doesn't exist.
+- [ ] **Expense Tracker CLI**
 
-## Usage
+  - [ ] TypeScript
+  - [ ] Go
 
-Run the CLI script using `ts-node` or compile it to JavaScript.
+- [ ] **Number Guessing Game CLI**
 
-```bash
-# Using ts-node
-npx ts-node src/task-cli.ts <command> [options]
+  - [ ] TypeScript
+  - [ ] Go
 
-# Or compile and run
-npm run build
-node dist/task-cli.js <command> [options]
-```
+- [ ] **Unit Converter Web App**
 
-### Commands
+  - [ ] TypeScript
+  - [ ] Go
 
-| Command                 | Description                                                         |
-| ----------------------- | ------------------------------------------------------------------- |
-| `add "<description>"`   | Add a new task with the given description.                          |
-| `update <id> "<desc>"`  | Update the description of the task with the given ID.               |
-| `delete <id>`           | Delete the task with the given ID.                                  |
-| `mark-in-progress <id>` | Mark the specified task as in-progress.                             |
-| `mark-done <id>`        | Mark the specified task as done.                                    |
-| `list [status]`         | List all tasks or filter by status (`todo`, `in-progress`, `done`). |
+- [ ] **Personal Blog Web App**
 
-### Examples
+  - [ ] TypeScript
+  - [ ] Go
 
-```bash
-# Add a new task
-npx ts-node src/task-cli.ts add "Write project README"
+- [ ] **Weather API**
 
-# Update an existing task
-npx ts-node src/task-cli.ts update 1 "Write detailed project README"
+  - [ ] TypeScript
+  - [ ] Go
 
-# Mark a task in progress
-npx ts-node src/task-cli.ts mark-in-progress 1
+- [ ] **Blogging Platform API**
 
-# Mark a task as done
-npx ts-node src/task-cli.ts mark-done 1
+  - [ ] TypeScript
+  - [ ] Go
 
-# Delete a task
-npx ts-node src/task-cli.ts delete 1
+- [ ] **Todo List API**
 
-# List all tasks
-npx ts-node src/task-cli.ts list
+  - [ ] TypeScript
+  - [ ] Go
 
-# List only done tasks
-npx ts-node src/task-cli.ts list done
-```
+- [ ] **Expense Tracker API**
 
-## Data Storage
+  - [ ] TypeScript
+  - [ ] Go
 
-Tasks are stored in a JSON file named `tasks.json` in the directory where the CLI is executed. Each task record includes:
+- [ ] **TMDB CLI Tool**
+  - [ ] TypeScript
+  - [ ] Go
 
-- `id`: Unique numerical identifier
-- `description`: Task description text
-- `status`: One of `todo`, `in-progress`, or `done`
-- `createdAt`: ISO timestamp of creation
-- `updatedAt`: ISO timestamp of last update
+### Intermediate
+
+- [ ] **Caching Proxy CLI**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **Markdown Note-taking App API**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **URL Shortening Service API**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **Broadcast Server CLI**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **E-Commerce API**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **Workout Tracker API**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **Image Processing Service API**
+  - [ ] TypeScript
+  - [ ] Go
+
+### Advanced
+
+- [ ] **Movie Reservation System API**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **Real-time Leaderboard API**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **Database Backup Utility CLI**
+
+  - [ ] TypeScript
+  - [ ] Go
+
+- [ ] **Scalable Microservices E-Commerce Platform**
+  - [ ] TypeScript
+  - [ ] Go
+
+---
