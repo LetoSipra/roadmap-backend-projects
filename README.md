@@ -1,6 +1,6 @@
-# Roadmap Backend Challenges Repository
+# Roadmap Backend Challenges
 
-This repository contains a curated set of backend project from [roadmap backend](https://roadmap.sh/backend/projects) challenges—organized from **beginner** through **advanced**—each implemented in both **TypeScript** and **Go**. Purpose for sharpening my backend skills.
+This repository contains a curated set of backend project from [roadmap backend](https://roadmap.sh/backend/projects) challenges—organized from **beginner** through **advanced**—each implemented in both **TypeScript** and **Go**.
 
 ---
 
