@@ -1,7 +1,8 @@
 # Task Tracker CLI
 
-A simple, file-based command-line task tracker built with TypeScript. Manage your tasks directly from the terminal with support for adding, updating, deleting, and marking tasks as in-progress or done. 
+A simple, file-based command-line task tracker built with TypeScript. Manage your tasks directly from the terminal with support for adding, updating, deleting, and marking tasks as in-progress or done.
 Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -23,15 +24,14 @@ Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker)
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) v14 or higher
-- [ts-node](https://github.com/TypeStrong/ts-node) (for running TypeScript directly)
 
 ## Installation
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/LetoSipra/task-tracker-typescript
-   cd task-tracker-typescript
+   git clone https://github.com/LetoSipra/roadmap-backend-projects
+   cd task-tracker/typescript
    ```
 
 2. **Install dependencies**

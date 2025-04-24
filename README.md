@@ -19,14 +19,14 @@ Each implementation has its own README (with setup and run instructions) as well
 
 ### Beginner
 
-- [ ] **Task Tracker**
+- [ ] **Task Tracker CLI**
 
   - [x] TypeScript
   - [ ] Go
 
 - [ ] **GitHub User Activity CLI**
 
-  - [ ] TypeScript
+  - [x] TypeScript
   - [ ] Go
 
 - [ ] **Expense Tracker CLI**
