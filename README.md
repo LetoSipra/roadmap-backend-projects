@@ -12,7 +12,7 @@ This repository contains set of backend project from [roadmap backend](https://r
 
 - [x] [**GitHub User Activity CLI**](https://roadmap.sh/projects/github-user-activity)
 
-- [ ] **Expense Tracker CLI**
+- [x] [**Expense Tracker CLI**](https://roadmap.sh/projects/expense-tracker)
 
 - [ ] **Number Guessing Game CLI**
 
