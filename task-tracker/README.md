@@ -31,7 +31,7 @@ Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker)
 
    ```bash
    git clone https://github.com/LetoSipra/roadmap-backend-projects
-   cd task-tracker
+   cd roadmap-backend-projects/task-tracker
    ```
 
 2. **Install dependencies**

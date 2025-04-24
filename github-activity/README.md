@@ -34,7 +34,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/LetoSipra/roadmap-backend-projects
-cd github-activity
+cd roadmap-backend-projects/github-activity
 npx tsc github-activity
 node github-activity <username>
 ```

@@ -18,7 +18,7 @@ A simple command-line Expense Tracker written in **TypeScript** using Node.js co
 
 ```bash
 git clone https://github.com/LetoSipra/roadmap-backend-projects
-cd expense-tracker
+cd roadmap-backend-projects/expense-tracker
 ```
 
 ### 2. Compile the TypeScript Code

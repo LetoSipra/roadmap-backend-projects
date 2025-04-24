@@ -14,7 +14,7 @@ This repository contains set of backend project from [roadmap backend](https://r
 
 - [x] [**Expense Tracker CLI**](https://roadmap.sh/projects/expense-tracker)
 
-- [ ] **Number Guessing Game CLI**
+- [x] [**Number Guessing Game CLI**](https://roadmap.sh/projects/number-guessing-game)
 
 - [ ] **Unit Converter Web App**
 
