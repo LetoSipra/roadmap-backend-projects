@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A simple, file-based command-line task tracker built with TypeScript. Manage your tasks directly from the terminal with support for adding, updating, deleting, and marking tasks as in-progress or done.
+A simple, file-based command-line task tracker built with TypeScript. Manage your tasks directly from the terminal with support for adding, updating, deleting, and marking tasks as in-progress or done for the https://roadmap.sh/projects/task-tracker solution.
 
 ## Table of Contents
 
@@ -11,8 +11,6 @@ A simple, file-based command-line task tracker built with TypeScript. Manage you
   - [Commands](#commands)
   - [Examples](#examples)
 - [Data Storage](#data-storage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
